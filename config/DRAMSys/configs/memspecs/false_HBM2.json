@@ -1,0 +1,48 @@
+{
+    "memspec": {
+        "memarchitecturespec": {
+            "burstLength": 4,
+            "dataRate": 2,
+            "nbrOfBankGroups": 4,
+            "nbrOfBanks": 16,
+            "nbrOfColumns": 128,
+	    "nbrOfPseudoChannels": 2, 
+            "nbrOfRows": 16384,
+            "width": 64,
+            "nbrOfDevices": 1,
+	    "nbrOfChannels": 1
+        },
+        "memoryId": "https://i.imgur.com/ip9LB7H.jpg https://www.reddit.com/r/Amd/comments/bm4vb9/another_look_at_vega_56_flashing_and_memory/",
+        "memoryType": "HBM2",
+        "memtimingspec": {
+            "CCDL": 4,
+            "CCDS": 2,
+            "CKE": 8,
+            "DQSCK": 0,
+            "FAW": 15,
+            "PL": 0,
+            "RAS": 30,
+            "RC": 43,
+            "RCDRD": 15,
+            "RCDWR": 9,
+            "REFI": 3510,
+            "REFISB": 219,
+            "RFC": 234,
+            "RFCSB": 144,
+            "RL": 18,
+            "RP": 13,
+            "RRDL": 6,
+            "RRDS": 4,
+            "RREFD": 8,
+            "RTP": 5,
+            "RTW": 17,
+            "WL": 7,
+            "WR": 15,
+            "WTRL": 9,
+            "WTRS": 4,
+            "XP": 8,
+            "XS": 243,
+            "clkMhz": 900
+        }
+    }
+}

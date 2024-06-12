@@ -1,0 +1,16 @@
+{
+    "mcconfig": {
+        "PagePolicy": "OpenAdaptive",
+        "Scheduler": "GrpFrFcfs",
+        "SchedulerBuffer": "Shared",
+        "RequestBufferSize": 64,
+        "CmdMux": "Oldest",
+        "RespQueue": "Fifo",
+        "RefreshPolicy": "AllBank",
+        "RefreshMaxPostponed": 8,
+        "RefreshMaxPulledin": 8,
+        "PowerDownPolicy": "NoPowerDown",
+        "Arbiter": "Simple",
+        "MaxActiveTransactions": 128
+    }
+}

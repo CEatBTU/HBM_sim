@@ -1,0 +1,3 @@
+[submodule "extern/dramSys/DRAMSys"]
+	path = extern/dramSys/DRAMSys
+	url = https://github.com/tukl-msd/DRAMSys

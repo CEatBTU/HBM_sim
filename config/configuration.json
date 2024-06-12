@@ -1,0 +1,13 @@
+{
+    "numberOfSwitches"                  : 8
+    ,"frequencyInMHz"                   : 300
+    ,"frequencyMC"			: 450
+    ,"numberOfBilateralConnections"     : 2
+    ,"buswidthInByte"                   : 32
+    ,"memorySizeInByte"			: 17179869184
+    ,"numberOfVerticalConnections"      : 4
+    ,"requestQueueSize"			: 16
+    ,"responseQueueSize"		: 32
+    ,"requestQueueSizeMC"		: 16
+    ,"responseQueueSizeMC"		: 8
+}
